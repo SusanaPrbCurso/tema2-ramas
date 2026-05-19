@@ -1,1 +1,1 @@
-#Soy un readme modificado para crear conflictos
+#Soy un readme que ha solucionado los conflictos
