@@ -1,6 +1,5 @@
 {
     "files.exclude": {
-        "**/.aaaaaaaaaaagit": true,
-        "**/.git": false
+        "**/.git": true
     }
 }
